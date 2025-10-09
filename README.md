@@ -190,6 +190,6 @@ plt.show()
 <img width="883" height="704" alt="image" src="https://github.com/user-attachments/assets/67e22499-5f23-4634-9dad-37dbb4160ecb" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+    THE CODES ARE EXECUTED SUCCESSFULLY
 
        
