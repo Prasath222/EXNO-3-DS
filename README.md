@@ -190,6 +190,6 @@ plt.show()
 <img width="883" height="704" alt="image" src="https://github.com/user-attachments/assets/67e22499-5f23-4634-9dad-37dbb4160ecb" />
 
 # RESULT:
-    THE CODES ARE EXECUTED SUCCESSFULLY
+ the given data and perform Feature Encoding and Transformation process and save the data to a file is executed sucessfull   
 
        
